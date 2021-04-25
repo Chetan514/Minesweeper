@@ -1,0 +1,14 @@
+.gameToolbar {
+  display: flex;
+  align-items: center;
+  background-color: #2d542d;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.gameToolbar-mid {
+  display: flex;
+}
+.gameToolbar-icons {
+  font-size: 14px;
+}

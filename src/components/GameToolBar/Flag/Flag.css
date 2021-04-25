@@ -1,0 +1,12 @@
+.header__flag {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.header__flag span {
+    font-size: 30px;
+    vertical-align: center;
+  }

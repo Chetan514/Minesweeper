@@ -1,0 +1,17 @@
+.gameHeader {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.gameHeader-start-stop{
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color:green;
+  font-style: italic;
+  cursor: pointer;
+  text-decoration: underline;
+}
